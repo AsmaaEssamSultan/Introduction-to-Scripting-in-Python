@@ -1,5 +1,5 @@
 # Introduction to Scripting in Python
-Introduction to Scripting in Python Specialization consist of 4 courses 
+Introduction to Scripting in Python Specialization consists of 4 courses 
 
 # First course: Python Programming Essentials
 
