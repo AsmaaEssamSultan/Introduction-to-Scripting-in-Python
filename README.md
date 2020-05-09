@@ -21,4 +21,5 @@ This course covers reading, storing, processing tabular data, and learning about
 This course covers installing external packages for use within Python, acquiring data from sources on the Web and then how to clean, process, analyze, and visualize that data.
 
 
-[**My Certificate**](https://www.coursera.org/account/accomplishments/specialization/TRLSJQWYXABS)
+My Specialization Certificate
+![My Certificate](https://github.com/AsmaaEssamSultan/Introduction-to-Scripting-in-Python/blob/master/Certificate.jpg)
